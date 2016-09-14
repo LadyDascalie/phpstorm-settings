@@ -1,0 +1,9 @@
+<toolSet name="Editors">
+  <tool name="Sublime Text" description="Open selected file in Sublime Text" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="subl" />
+      <option name="PARAMETERS" value="-a $FilePath$:$LineNumber$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

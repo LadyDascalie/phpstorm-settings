@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="keen-2.1.2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_dc8na2hxrj29i.cloudfront.net_code_keen-2.1.2-min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_dc8na2hxrj29i.cloudfront.net_code_keen-2.1.2-min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

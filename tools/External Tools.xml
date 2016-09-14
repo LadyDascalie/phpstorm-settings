@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Ego Build" description="Runs the buildtool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="ruby" />
+      <option name="PARAMETERS" value="build.rb" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,2438 @@
+<application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/css/main.css" timestamp="1469530150359">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/.env" timestamp="1472824934457">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1473842719498">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/partials/head.php" timestamp="1467988392410">
+        <mark key="[" line="10" column="94" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/layouts/sidebar-left.php" timestamp="1468228504051">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="78" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/ContentEndpointTest.php" timestamp="1461250650438">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="20" column="66" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/errors.log" timestamp="1473767343536">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/js/chartImpl.js" timestamp="1469630812604">
+        <mark key="[" line="118" column="54" />
+        <mark key="]" line="124" column="34" />
+        <mark key="^" line="124" column="34" />
+        <mark key="." line="124" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/tests/unit/LocalizeTest.php" timestamp="1471452583402">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Controllers/.gitignore" timestamp="1469746458154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/EnvAgency.php" timestamp="1473842847329">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="183" column="17" />
+        <mark key="." line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/.gitignore" timestamp="1469528757453">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/event/event.go" timestamp="1472740116677">
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="44" />
+        <mark key="^" line="42" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/css/main.css" timestamp="1468251401791">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/.gitignore" timestamp="1472563419117">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/devices/device.go" timestamp="1473768623201">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="102" />
+        <mark key="." line="24" column="102" />
+        <mark key="^" line="24" column="102" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/app/Console/Commands/CreateOrganisation.php" timestamp="1461338206084">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/utils/filters/filters.go" timestamp="1471280851062">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/logger/logger.go" timestamp="1473602393836">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/CreateOrganisationTest.php" timestamp="1461341271234">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/app/Interfaces/Models/DeviceLocation.php" timestamp="1459956149825">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/Homestead/emoodji/.env.example" timestamp="1472135757123">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/stringsearch/.gitignore" timestamp="1460651913780">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/TestDefaults.php" timestamp="1461063106013">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/ResponseMeta.php" timestamp="1469447339183">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-website-website/css/main.scss" timestamp="1462976812847">
+        <mark key="[" line="1483" column="13" />
+        <mark key="]" line="1483" column="14" />
+        <mark key="." line="1483" column="14" />
+        <mark key="^" line="1482" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/JsonTimestampParserTest.php" timestamp="1461319429356">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/partials/footer.php" timestamp="1467989902232">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api56/vagrant/Vagrantfile" timestamp="1459854406361">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Valet/avatar/config.php" timestamp="1470939060305">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Homestead/emoodji/.env" timestamp="1472049838589">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/responses/generic.go" timestamp="1471713488897">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/DateTest.php" timestamp="1461317960504">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/Authentication.go" timestamp="1471594425791">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/3sc/composer.json" timestamp="1460027929159">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/package.json" timestamp="1472562507609">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/Device.go" timestamp="1472561651324">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/views/Json.php" timestamp="1470391691392">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Http/Controllers/ExampleController.php" timestamp="1470586847470">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/app/Scripts/ajax.php" timestamp="1469634733440">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/calls.log" timestamp="1473602561772">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/app/Scripts/ajaxRegisteredByCodes.php" timestamp="1467869562324">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="58" />
+        <mark key="." line="16" column="58" />
+        <mark key="^" line="16" column="58" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/short/generate/generate.go" timestamp="1470829221727">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/config/amazon.php" timestamp="1473434052220">
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/composer.json" timestamp="1469787805012">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/validators/validators.go" timestamp="1472739598068">
+        <mark key="'" line="84" column="29" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/queueRunner.php" timestamp="1465397711516">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/library/classes/api/Request.php" timestamp="1471967740456">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/sqsworker/sqsworker.go" timestamp="1473769360874">
+        <mark key="'" line="23" column="27" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/.gitignore" timestamp="1471352408054">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/sortdir/.gitignore" timestamp="1467872243858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/app/Classes/Localize.php" timestamp="1469528491966">
+        <mark key="[" line="182" column="20" />
+        <mark key="]" line="182" column="17" />
+        <mark key="." line="182" column="17" />
+        <mark key="^" line="182" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/TestAuthEndpoints.php" timestamp="1461062133468">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/app/Controllers/Events.php" timestamp="1471250937969">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/auth/auth.go" timestamp="1472570854290">
+        <mark key="'" line="34" column="56" />
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="39" />
+        <mark key="." line="58" column="39" />
+        <mark key="^" line="58" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devicelocation/DeviceLocationController.go" timestamp="1473609320093">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/app/Models/Device.php" timestamp="1460113303634">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/Makefile" timestamp="1469529986052">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/gistlist/.gitignore" timestamp="1468940933680">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/library/classes/Scrape.php" timestamp="1471861240728">
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/controllers/builds.js" timestamp="1472550056449">
+        <mark key="'" line="593" column="0" />
+        <mark key="[" line="652" column="1" />
+        <mark key="]" line="652" column="2" />
+        <mark key="^" line="652" column="1" />
+        <mark key="." line="652" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceController.go" timestamp="1473767604020">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/NZMet.php" timestamp="1473842898943">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="208" column="17" />
+        <mark key="." line="202" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/3sc/Log/DevLogger.php" timestamp="1459952050924">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/composer.json" timestamp="1460115392474">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/Device.go" timestamp="1471549297683">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/3sc/src/DevLogger/DevLogger.php" timestamp="1460029119707">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/models/siebel/UserProfile.php" timestamp="1471961293604">
+        <mark key="[" line="104" column="24" />
+        <mark key="]" line="116" column="31" />
+        <mark key="^" line="116" column="31" />
+        <mark key="." line="116" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/AuthEndpointTest.php" timestamp="1461227711283">
+        <mark key="[" line="42" column="119" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/AdminPageControllerTest.php" timestamp="1461573022668">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="74" />
+        <mark key="^" line="28" column="107" />
+        <mark key="." line="28" column="107" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/js/main.js" timestamp="1469540242870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Http/Controllers/AuthenticationController.php" timestamp="1470588877357">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Met.php" timestamp="1473842882659">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="196" column="17" />
+        <mark key="." line="190" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/database/database.go" timestamp="1471550101366">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Interfaces/Models/WavesMeta.php" timestamp="1465222714345">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/jobs/DynamoJob.php" timestamp="1473349948692">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/v1/library/config/roots.php" timestamp="1461592217746">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm-blood/dev/blood/library/config/email.php" timestamp="1468320812336">
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Valet/avatar/layouts/partials/head.php" timestamp="1470952345875">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+        <mark key="^" line="9" column="72" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Controllers/Permissions/Search.php" timestamp="1466603635778">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/Code/index.php" timestamp="1460564956738">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/responses/json.go" timestamp="1473427268460">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/database/database.go" timestamp="1473601274048">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/setup.sh" timestamp="1460459775848">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/logger.go" timestamp="1460920557694">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/stringsearch/main.go" timestamp="1460650734469">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="63" column="68" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/index.php" timestamp="1469531161485">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="67" />
+        <mark key="^" line="11" column="67" />
+        <mark key="." line="11" column="67" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/tests/unit/LocalizeTest.php" timestamp="1469706315716">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="48" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/partials/nav.php" timestamp="1468228509750">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/snsworker/snsworker.go" timestamp="1473769153442">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/docker-phpfpm/Dockerfile" timestamp="1460318403274">
+        <mark key="[" line="8" column="103" />
+        <mark key="]" line="13" column="70" />
+        <mark key="." line="13" column="70" />
+        <mark key="^" line="13" column="70" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Adapters/WavesMeta/Dbo.php" timestamp="1469457740567">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="39" column="14" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/main.go" timestamp="1471435000355">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/NZTA.php" timestamp="1473842903336">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="192" column="33" />
+        <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Controllers/Permissions/Responses.php" timestamp="1466428102913">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/app/Classes/Consumer.php" timestamp="1469634746550">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/dyna/config.php" timestamp="1470840991850">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/js/bundle.js" timestamp="1470911393414">
+        <mark key="[" line="15187" column="84" />
+        <mark key="]" line="15187" column="76" />
+        <mark key="." line="15187" column="76" />
+        <mark key="^" line="15187" column="76" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/utils/LocalAuth.go" timestamp="1468014527249">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/dyna/index.php" timestamp="1470844362731">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Homestead/emoodji/app/Http/Controllers/RootController.php" timestamp="1472053586992">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Interfaces/Models/JsonConfig.php" timestamp="1468847938101">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/utils/pokemon/pokedex.go" timestamp="1471165859824">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/library/classes/scrapers/Smn.php" timestamp="1471879988914">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="207" column="26" />
+        <mark key="]" line="207" column="35" />
+        <mark key="^" line="207" column="35" />
+        <mark key="." line="207" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/index.php" timestamp="1471967339078">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/controllers/notifier.js" timestamp="1472549643654">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="103" column="1" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/Authentication.php" timestamp="1467195580448">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="23" column="52" />
+        <mark key="^" line="23" column="52" />
+        <mark key="." line="23" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/DynamoInterface.php" timestamp="1473774275087">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/qqstats/main.go" timestamp="1463938428950">
+        <mark key="[" line="51" column="34" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/calls.log" timestamp="1468018208838">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Library/Classes/Configurator.php" timestamp="1469781079687">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-website-website/index.html" timestamp="1463043557459">
+        <mark key="[" line="46" column="78" />
+        <mark key="]" line="50" column="76" />
+        <mark key="^" line="50" column="76" />
+        <mark key="." line="50" column="76" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Controllers/Permissions/Devices.php" timestamp="1466072677785">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/utils/logger/logger.go" timestamp="1471353129457">
+        <mark key="[" line="10" column="91" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Library/functions.php" timestamp="1469786936835">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/config/config.go" timestamp="1473609127927">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="38" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/Homestead/emoodji/app/Http/Controllers/UsersMeController.php" timestamp="1472137441486">
+        <mark key="'" line="105" column="26" />
+        <mark key="[" line="276" column="110" />
+        <mark key="]" line="267" column="23" />
+        <mark key="." line="267" column="23" />
+        <mark key="^" line="267" column="23" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/js/utils.js" timestamp="1472814146532">
+        <mark key="[" line="162" column="7" />
+        <mark key="]" line="162" column="7" />
+        <mark key="." line="162" column="7" />
+        <mark key="^" line="162" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/api/dev/index.php" timestamp="1459851943120">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/Code/composer.json" timestamp="1460474218750">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Library/Singletons/HandleGeoJSON.php" timestamp="1469748415835">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/Valet/avatar/functions.php" timestamp="1470948080750">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/development.log" timestamp="1469738401482">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Classes/Singletons/Sanitize.php" timestamp="1465209605418">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/.env" timestamp="1467740384350">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/auth/basic.go" timestamp="1468014596866">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/library/config/database.php" timestamp="1460131995840">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/shippable.yml" timestamp="1460734057192">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/ccsSimulator/main.go" timestamp="1469444759720">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+        <mark key="^" line="71" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/bootstrap/app.php" timestamp="1461064949290">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="51" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/app/Models/Jobs/EventRefinement.php" timestamp="1471343979271">
+        <mark key="'" line="182" column="44" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="47" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="204" column="38" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/js/keenImpl.js" timestamp="1471943001928">
+        <mark key="[" line="137" column="32" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/public/index.php" timestamp="1471879946522">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="64" column="65" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/models/DeviceLocation.go" timestamp="1460973140261">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/app/Models/Device.php" timestamp="1470303198856">
+        <mark key="[" line="102" column="35" />
+        <mark key="]" line="106" column="9" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/Root.go" timestamp="1472555437828">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="58" />
+        <mark key="." line="47" column="49" />
+        <mark key="^" line="47" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/filters/filters.go" timestamp="1471713836785">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" timestamp="1473842910793">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="223" column="17" />
+        <mark key="." line="217" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/vendor/cruxoft/bolt-geojson/src/Feature.php" timestamp="1465485828328">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Homestead/emoodji/app/Models/Repositories/Statistics.php" timestamp="1472113762510">
+        <mark key="[" line="266" column="36" />
+        <mark key="]" line="266" column="43" />
+        <mark key="^" line="266" column="43" />
+        <mark key="." line="266" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/docker/Code/.env" timestamp="1460127824984">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/index.php.old" timestamp="1470751470006">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/doj/main.go" timestamp="1471118678978">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/Code/library/config.php" timestamp="1460555999281">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/timeutils/timeutils.go" timestamp="1473355779848">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/controllers/api/api.go" timestamp="1471281068123">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="17" column="164" />
+        <mark key="]" line="17" column="172" />
+        <mark key="^" line="17" column="172" />
+        <mark key="." line="17" column="172" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Calfire.php" timestamp="1473842842540">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="191" column="17" />
+        <mark key="." line="185" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1521c8b7-c61c-4c8c-82b9-912a7d37d3f2/console.sql" timestamp="1473696083961">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="147" column="10" />
+        <mark key="^" line="147" column="10" />
+        <mark key="." line="147" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Adapters/Event/Dbo.php" timestamp="1469636728418">
+        <mark key="[" line="146" column="36" />
+        <mark key="]" line="146" column="35" />
+        <mark key="." line="146" column="35" />
+        <mark key="^" line="146" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/jobs/ShakeMapJob.php" timestamp="1473842820935">
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="287" column="13" />
+        <mark key="." line="281" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/partials/head.php" timestamp="1469527161761">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/devicelocation/devicelocation.go" timestamp="1472739852525">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/.env" timestamp="1471596677008">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php" timestamp="1461064275957">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/utils/Logger.go" timestamp="1468018769026">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Gdacs.php" timestamp="1473842854361">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="105" column="17" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Interfaces/Models/Config.php" timestamp="1468921673928">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Models/Data.php" timestamp="1469786848845">
+        <mark key="[" line="34" column="65" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/AlertForUsers.php" timestamp="1473680397734">
+        <mark key="'" line="29" column="24" />
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm-blood/dev/blood/library/config/amazon.php" timestamp="1468341229926">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/composer.json" timestamp="1470131234126">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/models/user/User.php" timestamp="1470653511758">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/.env" timestamp="1460132009779">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Valet/blood/controllers/Users.php" timestamp="1471515343268">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="546" column="39" />
+        <mark key="]" line="547" column="55" />
+        <mark key="." line="547" column="55" />
+        <mark key="^" line="547" column="55" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoUnmarshaller.php" timestamp="1473432806376">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="18" column="54" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/models/user/Timestamps.php" timestamp="1470653592083">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/doj/vendor/symfony/http-foundation/Request.php" timestamp="1471107557115">
+        <mark key="[" line="716" column="20" />
+        <mark key="]" line="716" column="20" />
+        <mark key="." line="716" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/config/roots.php" timestamp="1468851748447">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/js/chartImpl.js" timestamp="1470911634524">
+        <mark key="[" line="118" column="50" />
+        <mark key="]" line="118" column="66" />
+        <mark key="." line="118" column="66" />
+        <mark key="^" line="118" column="66" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/main.go" timestamp="1471281062524">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="89" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/events/EventsController.go" timestamp="1473767411052">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/utils/generate/generate.go" timestamp="1471281021133">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="60" />
+        <mark key="." line="7" column="60" />
+        <mark key="^" line="7" column="60" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/js/map.js" timestamp="1467282388451">
+        <mark key="[" line="64" column="6" />
+        <mark key="]" line="64" column="5" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="64" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/docker-compose.prod.yml" timestamp="1460626168425">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/ego/.gitignore" timestamp="1460724380802">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/models/user/Timestamp.php" timestamp="1470653537124">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/morse/main.go" timestamp="1472225561358">
+        <mark key="[" line="29" column="85" />
+        <mark key="]" line="29" column="85" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="85" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/info.php" timestamp="1464165928550">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/storm/library/config.php" timestamp="1469095866192">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="38" />
+        <mark key="." line="47" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-website-website/.gitignore" timestamp="1462973936264">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/.gitignore" timestamp="1460029385895">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/dyna/composer.json" timestamp="1470840975194">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/app/Consume.php" timestamp="1467300701708">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Inciweb.php" timestamp="1473842877661">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="121" column="17" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/models/User.php" timestamp="1471001589014">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/v1/library/config/scrapers.php" timestamp="1461773237823">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="93" />
+        <mark key="." line="25" column="93" />
+        <mark key="^" line="25" column="93" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/.htaccess" timestamp="1470756631069">
+        <mark key="[" line="9" column="83" />
+        <mark key="]" line="9" column="82" />
+        <mark key="^" line="9" column="82" />
+        <mark key="." line="9" column="82" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Gvp.php" timestamp="1473842872799">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="130" column="17" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/dash/app/AppDefaults.php" timestamp="1466430656655">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Http/Controllers/DevicesController.php" timestamp="1470592073477">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/library/classes/Api.php" timestamp="1461592109238">
+        <mark key="[" line="176" column="77" />
+        <mark key="]" line="177" column="53" />
+        <mark key="^" line="177" column="53" />
+        <mark key="." line="177" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/app/Adapters/Event/Dbo.php" timestamp="1470148201425">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/storm/index.php" timestamp="1469095825948">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/main.go" timestamp="1468018787862">
+        <mark key="[" line="39" column="63" />
+        <mark key="]" line="39" column="62" />
+        <mark key="^" line="39" column="62" />
+        <mark key="." line="39" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/controllers/Scrapes.php" timestamp="1472637435136">
+        <mark key="[" line="172" column="54" />
+        <mark key="]" line="172" column="49" />
+        <mark key="^" line="173" column="58" />
+        <mark key="." line="172" column="49" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Http/routes.php" timestamp="1470588622614">
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/short/utils/responses/json.go" timestamp="1471000276646">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/sns.go" timestamp="1473113966299">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Singletons/AlgoConfig.php" timestamp="1469452161476">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/events/events.go" timestamp="1473039233459">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="98" column="51" />
+        <mark key="]" line="98" column="61" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="61" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/controllers/Users.php" timestamp="1472209445337">
+        <mark key="'" line="597" column="0" />
+        <mark key="[" line="493" column="102" />
+        <mark key="]" line="580" column="63" />
+        <mark key="." line="580" column="63" />
+        <mark key="^" line="580" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/docker-phpfpm/config/php-start.sh" timestamp="1460316751272">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Gdpc.php" timestamp="1473842861847">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="152" column="17" />
+        <mark key="." line="146" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/Event.php" timestamp="1467794679165">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="31" column="59" />
+        <mark key="." line="31" column="59" />
+        <mark key="^" line="31" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/controllers/Alerts.php" timestamp="1473842796612">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="124" column="12" />
+        <mark key="^" line="123" column="24" />
+        <mark key="." line="123" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/cubevalidation/cubevalidation/src/CubeValidation/CubeValidation.php" timestamp="1460117333170">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="14" column="100" />
+        <mark key="." line="14" column="100" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/library/Classes/Singletons/Localize.php" timestamp="1471861949044">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="100" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/Code/tests/unit/DeviceLocationTest.php" timestamp="1460475564736">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/cleanupRunner.php" timestamp="1470238150862">
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/utils/functions.go" timestamp="1471280847707">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Pelmorex.php" timestamp="1473842907860">
+        <mark key="[" line="390" column="0" />
+        <mark key="]" line="396" column="21" />
+        <mark key="." line="390" column="0" />
+        <mark key="^" line="412" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/library/config/siebel.php" timestamp="1472204453416">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/.gitignore" timestamp="1470921690590">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/.env" timestamp="1472828158548">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/controllers/Users.php" timestamp="1473340144277">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/utils/pokedex.go" timestamp="1473111003179">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Usgs.php" timestamp="1473842917945">
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="257" column="17" />
+        <mark key="." line="251" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/headers/headers.go" timestamp="1472569889499">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/storm/test/library/classes/Request.php" timestamp="1469100379371">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/utils/timeutils/timeutils.go" timestamp="1471767002925">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/main.go" timestamp="1473609344389">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/index.php" timestamp="1473329574791">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/scrape_the_scrapers/utils/config.go" timestamp="1471175233781">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/app/Scripts/ajaxUtils.php" timestamp="1467818636662">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/main.go" timestamp="1472218841051">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/dyna/app/DynamoManager.php" timestamp="1470841430411">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/controllers/job.js" timestamp="1472549803623">
+        <mark key="[" line="33" column="1" />
+        <mark key="]" line="33" column="1" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/AlertsForUser.php" timestamp="1473773809406">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="76" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/generate/generate.go" timestamp="1473033951527">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/library/classes/SiebelMock.php" timestamp="1471524777760">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/config/bootstrap.php" timestamp="1471521823735">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/authentication/authentication.go" timestamp="1473034134817">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/middleware/auth.go" timestamp="1473610209458">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="41" />
+      </file>
+      <file name="$USER_HOME$/Valet/doj/index.php" timestamp="1471108171142">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
+      <file name="$USER_HOME$/Valet/avatar/layouts/partials/footer.php" timestamp="1470951005193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/library/classes/DynamoManager.php" timestamp="1473331805184">
+        <mark key="'" line="17" column="49" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" timestamp="1473774649500">
+        <mark key="'" line="15" column="27" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/.env" timestamp="1470590873692">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/WavesMeta.php" timestamp="1465396974637">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/dyna/.env" timestamp="1470841593819">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/controllers/apps.js" timestamp="1472550017355">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="375" column="1" />
+        <mark key="]" line="375" column="1" />
+        <mark key="." line="375" column="1" />
+        <mark key="^" line="375" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/controllers/Crowd.php" timestamp="1473842815573">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="134" column="13" />
+        <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/dispatcher.go" timestamp="1472801248084">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/JsonConfig.php" timestamp="1468858119995">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/doj/public/index.html" timestamp="1471118294476">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/4tools/build.go" timestamp="1473547261194">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+        <mark key="^" line="25" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Library/Singletons/Encode.php" timestamp="1469799465700">
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="71" column="40" />
+        <mark key="^" line="71" column="40" />
+        <mark key="." line="71" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/AppAuthHeaderTest.php" timestamp="1461236492556">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="74" />
+        <mark key="." line="7" column="73" />
+        <mark key="^" line="7" column="73" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Interfaces/UserSelectInterface.php" timestamp="1465378782416">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Controllers/Providers/GeoControllerProvider.php" timestamp="1469723229119">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="48" column="5" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="35" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/library/whitelist.json" timestamp="1473332027630">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/Code/vendor/valid/src/CubeValidation/CubeValidation.php" timestamp="1460474131215">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/library/config.php" timestamp="1470143595481">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/library/Classes/Singletons/HandleGeoJSON.php" timestamp="1472828921881">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="36" />
+        <mark key="^" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/doj/controllers/controllers.go" timestamp="1471117832020">
+        <mark key="[" line="38" column="84" />
+        <mark key="]" line="49" column="77" />
+        <mark key="." line="49" column="77" />
+        <mark key="^" line="49" column="77" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/docker-phpfpm/config/xdebug.ini" timestamp="1460292078777">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/library/config/scrapers.php" timestamp="1472636354732">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/queueRunner.go" timestamp="1472801264317">
+        <mark key="[" line="70" column="36" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/.gitignore" timestamp="1467281037453">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/DeviceLocation.go" timestamp="1471593531962">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/app/Scripts/init.php" timestamp="1472813349835">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Singletons/Encode.php" timestamp="1469007835113">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="55" column="66" />
+        <mark key="^" line="55" column="66" />
+        <mark key="." line="55" column="66" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/panique/pdo-debug/pdo-debug.php" timestamp="1460028244437">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="45" />
+        <mark key="." line="40" column="45" />
+        <mark key="^" line="40" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/cruxoft/bolt-mvc/src/Model.php" timestamp="1460110300377">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="9" column="80" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/library/Classes/Implementations/UserSelect.php" timestamp="1473763034003">
+        <mark key="'" line="158" column="5" />
+        <mark key="[" line="123" column="36" />
+        <mark key="]" line="123" column="34" />
+        <mark key="." line="123" column="34" />
+        <mark key="^" line="123" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/arpro-storm-api/library/config.php" timestamp="1471342529336">
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="13" />
+        <mark key="^" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/valid/composer.json" timestamp="1460046149137">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/auth/local.go" timestamp="1471712630543">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/support/scripts/scraper.sh" timestamp="1472725176673">
+        <mark key="[" line="13" column="277" />
+        <mark key="]" line="13" column="295" />
+        <mark key="^" line="13" column="295" />
+        <mark key="." line="13" column="295" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/app/Controllers/Devices.php" timestamp="1472561350525">
+        <mark key="'" line="79" column="38" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="103" column="12" />
+        <mark key="." line="103" column="12" />
+        <mark key="^" line="103" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/models/cap/Info.php" timestamp="1472655379210">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="32" column="80" />
+        <mark key="]" line="32" column="79" />
+        <mark key="." line="32" column="79" />
+        <mark key="^" line="32" column="79" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Interfaces/UserSelect.php" timestamp="1465210748611">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/app/Scripts/ajaxByCode.php" timestamp="1467818821552">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/Jobs/EventRefinement.php" timestamp="1469695160051">
+        <mark key="[" line="184" column="51" />
+        <mark key="]" line="184" column="51" />
+        <mark key="^" line="154" column="50" />
+        <mark key="." line="184" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/errors.log" timestamp="1468018822596">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/dash/composer.json" timestamp="1466430628326">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/controllers/Authentication.php" timestamp="1469022121784">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Arc.php" timestamp="1473842836519">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="135" column="17" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Implementations/UserSelect.php" timestamp="1470045064858">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Homestead/emoodji/app/Http/Controllers/Controller.php" timestamp="1472053212609">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/storm/test/library/whitelist.json" timestamp="1469610875080">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/js/eventCodes.js" timestamp="1469528667725">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/EventTest.php" timestamp="1461320631822">
+        <mark key="[" line="6" column="133" />
+        <mark key="]" line="6" column="172" />
+        <mark key="^" line="6" column="172" />
+        <mark key="." line="6" column="172" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/short/utils/utils.go" timestamp="1471000097617">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/vendor/cruxoft/bolt-api/src/Api/Route/Rule.php" timestamp="1470057078481">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Adapters/Config/Dbo.php" timestamp="1468943121299">
+        <mark key="[" line="61" column="81" />
+        <mark key="]" line="61" column="86" />
+        <mark key="^" line="61" column="86" />
+        <mark key="." line="61" column="86" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" timestamp="1473769352159">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/models/ModelManager.php" timestamp="1471004227810">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/TestCase.php" timestamp="1461164282839">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/.env" timestamp="1470050439790">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="18" column="205" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Authentication.php" timestamp="1470591757203">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/.env" timestamp="1469754446743">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/arn.go" timestamp="1471632487522">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/app/init.php" timestamp="1467285297781">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/GeoNet.php" timestamp="1473842866880">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="197" column="17" />
+        <mark key="." line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/docker/Code/library/config/database.php" timestamp="1460127801441">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/utils/MethodValidator.go" timestamp="1468012813006">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/gobot/main.go" timestamp="1460754880715">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="31" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/factory/generate/generate.go" timestamp="1471551626527">
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="17" />
+        <mark key="." line="74" column="17" />
+        <mark key="^" line="74" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/controllers/scraper/scaper.go" timestamp="1472995300990">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="58" />
+        <mark key="." line="48" column="58" />
+        <mark key="^" line="48" column="58" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/short/utils/responses/generic.go" timestamp="1471000173208">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="22" column="52" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/library/classes/scrapers/Dmh.php" timestamp="1472724936708">
+        <mark key="'" line="10" column="81" />
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="127" column="20" />
+        <mark key="." line="127" column="20" />
+        <mark key="^" line="127" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/worker.go" timestamp="1473024811591">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/Jobs/EventReporting.php" timestamp="1465983447270">
+        <mark key="[" line="41" column="70" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
+        <mark key="^" line="41" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/controllers/Appointments.php" timestamp="1468491440611">
+        <mark key="[" line="24" column="111" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoUnmarshall.php" timestamp="1473429959052">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/app/scripts/ajax.php" timestamp="1467366536650">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/Code/vendor/cruxoft/bolt-validator/src/Validator.php" timestamp="1460319322968">
+        <mark key="[" line="25" column="120" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/app/Models/Jobs/UserEventRegistration.php" timestamp="1469695545277">
+        <mark key="[" line="220" column="50" />
+        <mark key="]" line="220" column="50" />
+        <mark key="^" line="177" column="27" />
+        <mark key="." line="220" column="50" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/site.conf" timestamp="1468853637693">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/app/Jobs/EventRegistration.php" timestamp="1473442121492">
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="53" column="35" />
+        <mark key="^" line="40" column="22" />
+        <mark key="." line="40" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/utils/generate/generate.go" timestamp="1471551485462">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" timestamp="1473843773292">
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="101" column="23" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/app/Scripts/ajaxPointsAsGeojson.php" timestamp="1472825543025">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm-blood/dev/blood/library/config/database.php.template" timestamp="1468320733330">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_scraper/utils/filters/filters.go" timestamp="1471767582555">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/defaults/config.js" timestamp="1472551171164">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Parameterize.php" timestamp="1465313073971">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/UKTerror.php" timestamp="1473842914547">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="165" column="13" />
+        <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Library/config.php" timestamp="1469786909779">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/.env" timestamp="1472814018172">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/short/main.go" timestamp="1470996488709">
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/support/scripts/zips.php" timestamp="1468513656589">
+        <mark key="[" line="24" column="150" />
+        <mark key="]" line="24" column="147" />
+        <mark key="^" line="24" column="147" />
+        <mark key="." line="24" column="147" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/app/Models/Event.php" timestamp="1470137497804">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ad79e0b1-aab7-40c8-9c7b-fa8fddb5effd/console.sql" timestamp="1470402671664">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm-blood/dev/blood/library/config.php" timestamp="1468315730513">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Controllers/Providers/Geo.php" timestamp="1469722280714">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="27" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/models/App.js" timestamp="1472551262130">
+        <mark key="'" line="237" column="25" />
+        <mark key="[" line="147" column="21" />
+        <mark key="]" line="147" column="21" />
+        <mark key="^" line="147" column="21" />
+        <mark key="." line="147" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceLocationController.go" timestamp="1473609647993">
+        <mark key="'" line="49" column="75" />
+        <mark key="[" line="79" column="33" />
+        <mark key="]" line="79" column="32" />
+        <mark key="." line="79" column="32" />
+        <mark key="^" line="79" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/library/classes/Siebel.php" timestamp="1472204763670">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="744" column="16" />
+        <mark key="]" line="744" column="26" />
+        <mark key="." line="744" column="26" />
+        <mark key="^" line="744" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/partials/footer.php" timestamp="1469530175503">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/avatar/css/main.css" timestamp="1470951231299">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Library/Singletons/Generate.php" timestamp="1469799022337">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/support/scripts/scraper.sh" timestamp="1471858863773">
+        <mark key="[" line="15" column="118" />
+        <mark key="]" line="13" column="294" />
+        <mark key="^" line="13" column="294" />
+        <mark key="." line="13" column="294" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/utils/basic/BasicAuth.go" timestamp="1468015902150">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/.env" timestamp="1473356501229">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/storm/test/controllers/AlertsController.php" timestamp="1469611915581">
+        <mark key="[" line="191" column="16" />
+        <mark key="]" line="191" column="48" />
+        <mark key="." line="191" column="16" />
+        <mark key="^" line="190" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/doj/config/config.go" timestamp="1471117817940">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/library/config.php" timestamp="1471525313221">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/vendor/cruxoft/bolt-mvc/src/Controller.php" timestamp="1465920654085">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/dash/js/utils.js" timestamp="1469634501645">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/README.md" timestamp="1460733730477">
+        <mark key="[" line="142" column="45" />
+        <mark key="]" line="138" column="76" />
+        <mark key="^" line="138" column="76" />
+        <mark key="." line="138" column="76" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Providers/AuthServiceProvider.php" timestamp="1470590596324">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/app/Classes/Auth/JwtGuard.php" timestamp="1461320975755">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/library/classes/Scrape.php" timestamp="1472637688352">
+        <mark key="[" line="62" column="73" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceLocation.go" timestamp="1471549858541">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/controllers/DeviceLocation.go" timestamp="1460986883948">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-charitykit-api/tests/ExampleTest.php" timestamp="1461070877331">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/php70-dev/Dockerfile" timestamp="1467650427029">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="64" column="37" />
+        <mark key="." line="64" column="37" />
+        <mark key="^" line="64" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/index.php" timestamp="1468250733187">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/library/config/roots.php" timestamp="1461591751402">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Valet/robotoapi/controllers/organisations.js" timestamp="1472549544615">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="317" column="17" />
+        <mark key="]" line="317" column="16" />
+        <mark key="^" line="317" column="16" />
+        <mark key="." line="317" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/models/Device.go" timestamp="1471593419550">
+        <mark key="'" line="30" column="25" />
+        <mark key="[" line="23" column="81" />
+        <mark key="]" line="23" column="153" />
+        <mark key="." line="23" column="153" />
+        <mark key="^" line="23" column="153" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/basicauth/BasicAuth.go" timestamp="1471711564877">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/cubedocker/docker-compose.override.yml" timestamp="1460558280737">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoManager.php" timestamp="1473345554661">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="33" />
+        <mark key="." line="68" column="33" />
+        <mark key="^" line="68" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Singletons/GEOJSON.php" timestamp="1467641458053">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="22" column="87" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/app/Classes/Localize.php" timestamp="1470910198711">
+        <mark key="[" line="176" column="5" />
+        <mark key="]" line="142" column="43" />
+        <mark key="^" line="142" column="43" />
+        <mark key="." line="142" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/alerts-box/dev/models/rollups/Alert.php" timestamp="1471002310392">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/auth/local.go" timestamp="1471633802601">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Lumen/pkmn/app/Devices.php" timestamp="1470591732684">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="19" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/library/Classes/Singletons/Math.php" timestamp="1467709812466">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="64" />
+        <mark key="^" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/config.php" timestamp="1473434021589">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/blood/controllers/Teams.php" timestamp="1468487749510">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/storm/test/index.php" timestamp="1469610840460">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/RootController.go" timestamp="1473609178250">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/tsc-pokemon-locator-api/queueRunner.php" timestamp="1470234865254">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/silex/Controllers/Auth.php" timestamp="1469804114128">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="59" column="5" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/library/config/scrapers.php" timestamp="1461583598637">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="86" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-cubedocker/code/vendor/cruxoft/bolt-core/src/Connections/Dbo.php" timestamp="1464949220465">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="12" />
+        <mark key="." line="58" column="12" />
+        <mark key="^" line="58" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Noaa.php" timestamp="1473842894057">
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="403" column="17" />
+        <mark key="." line="397" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/testapi/controllers/Device.go" timestamp="1468017065985">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Valet/doj/composer.json" timestamp="1471107628889">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Valet/dash/layouts/sidebar-right.php" timestamp="1472813300142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/index.php" timestamp="1473775329170">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="10" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="145" column="26" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="281" column="48" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="79" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/errors.log" />
+      <jump line="207" column="32" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="123" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="72" column="12" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/4tools/main.go" />
+      <jump line="105" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/4tools/main.go" />
+      <jump line="6" column="13" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/4tools/build.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/calls.log" />
+      <jump line="56" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/libraries/logger/logger.go" />
+      <jump line="143" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/calls.log" />
+      <jump line="97" column="4" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/calls.log" />
+      <jump line="256" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceLocationController.go" />
+      <jump line="49" column="75" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceLocationController.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/events/EventsController.go" />
+      <jump line="30" column="22" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceController.go" />
+      <jump line="68" column="8" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceController.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceController.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/devices/DeviceController.go" />
+      <jump line="48" column="8" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/events/EventsController.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/events/EventsController.go" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/controllers/events/EventsController.go" />
+      <jump line="45" column="16" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/sqsworker/sqsworker.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/sqsworker/sqsworker.go" />
+      <jump line="49" column="36" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="268" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="223" column="39" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="135" column="33" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="30" column="12" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="128" column="45" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="133" column="13" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="131" column="12" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="117" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="126" column="8" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="10" column="19" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="120" column="4" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="112" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="121" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="129" column="30" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="35" column="12" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="103" column="34" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="27" column="26" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="5" column="10" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/AlertForUsers.php" />
+      <jump line="25" column="8" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/AlertForUsers.php" />
+      <jump line="122" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="119" column="24" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="41" column="4" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="73" column="4" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="29" column="24" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/AlertForUsers.php" />
+      <jump line="73" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="143" column="22" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="7" column="25" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="49" column="8" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="47" column="13" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/traits/DynamoHandler.php" />
+      <jump line="36" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1521c8b7-c61c-4c8c-82b9-912a7d37d3f2/console.sql" />
+      <jump line="202" column="0" filename="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/app/Adapters/Event/Dbo.php" />
+      <jump line="23" column="15" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/index.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/index.php" />
+      <jump line="158" column="5" filename="$USER_HOME$/Code/Repositories/tsc-crowdsourcing-api/library/Classes/Implementations/UserSelect.php" />
+      <jump line="152" column="12" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/errors.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/errors.log" />
+      <jump line="275" column="4" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/errors.log" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="20" column="27" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/sqsworker/sqsworker.go" />
+      <jump line="264" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
+      <jump line="127" column="37" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="15" column="27" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="189" column="48" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
+      <jump line="249" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
+      <jump line="97" column="20" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdHJ5CgkJCXsKCQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRhbGVydC0+aWQoKSk7CgkJCX0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpCgkJCXsKCQkJCS8vIGlnbm9yZQoJCQl9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkbVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJdHJ5CgkJCXsKCQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRhbGVydC0+aWQoKSk7CgkJCX0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpCgkJCXsKCQkJCS8vIGlnbm9yZQoJCQl9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRpZCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgkJCS8vIHRvZG86IGZpbmQgdGhlIGlkIGZvciB0aGUgZXZlbnQgcHJvcGVybHkuLi4gd2hlcmUgaXMgaXQ/CgkJCS8vICRhID0gbmV3IEFsZXJ0KG5ldyBFc28oIiIpKTsKCQkJLy8gJGEtPnBvcHVsYXRlKCRhbGVydC0+X3NvdXJjZSk7CgkJCS8vICRhLT5zYXZlVG9EeW5hbW8oMSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJLy8gdG9kbzogZmluZCB0aGUgaWQgZm9yIHRoZSBldmVudCBwcm9wZXJseQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLyoqIEB2YXIgVFlQRV9OQU1FICRpbm5lckxvY2F0aW9uICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJLyoqIEB2YXIgVFlQRV9OQU1FICRpbm5lckxvY2F0aW9uICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCQkvKiogQHZhciBUWVBFX05BTUUgJGlubmVyTG9jYXRpb24gKi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJJGlkID0gc3ByaW50ZigiJXNfJXMiLCAkdGhpcy0+ZmVlZCwgJHRoaXMtPm9yaWdpbmFsLT5pZCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="y" type="4">
+        <text>d</text>
+      </register>
+      <register name=":" type="4">
+        <text>reg</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxkbVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxkbVw+</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>blood</entry>
+        <entry>return</entry>
+        <entry>dump</entry>
+        <entry>created</entry>
+        <entry>deviceLoc</entry>
+        <entry>Meta</entry>
+        <entry>cansoli</entry>
+        <entry>can</entry>
+        <entry>204</entry>
+        <entry>shotgun</entry>
+        <entry>shotgu</entry>
+        <entry>refineU</entry>
+        <entry>earth</entry>
+        <entry>todo</entry>
+        <entry>yes</entry>
+        <entry>Coun</entry>
+        <entry>IsExist</entry>
+        <entry>refine</entry>
+        <entry>NULLa</entry>
+        <entry encoding="base64">XDxkbVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>329</entry>
+        <entry>194</entry>
+        <entry>180</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
+        <entry>174</entry>
+        <entry>1382</entry>
+        <entry>63</entry>
+        <entry>q</entry>
+        <entry>q!</entry>
+        <entry>270</entry>
+        <entry>xa</entry>
+        <entry>91</entry>
+        <entry>205</entry>
+        <entry>Sex</entry>
+        <entry>317</entry>
+        <entry>x</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+        <entry>reg</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
