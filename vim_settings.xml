@@ -756,6 +756,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/maps/v2.0/hurricanes/us/index.php" timestamp="1473849788738">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/go/src/github.com/ladydascalie/ccsSimulator/main.go" timestamp="1469444759720">
         <mark key="[" line="74" column="20" />
         <mark key="]" line="71" column="20" />
@@ -1596,6 +1602,12 @@
         <mark key="." line="103" column="12" />
         <mark key="^" line="103" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/maps/v2.0/earthquakes/index.php" timestamp="1473849591802">
+        <mark key="'" line="77" column="8" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/models/cap/Info.php" timestamp="1472655379210">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="32" column="80" />
@@ -2211,7 +2223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
       <jump line="145" column="26" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
       <jump line="281" column="48" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
@@ -2311,13 +2322,14 @@
       <jump line="249" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
       <jump line="97" column="20" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
       <jump line="125" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
+      <jump line="76" column="8" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/maps/v2.0/earthquakes/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkbVw+</text>
@@ -2326,31 +2338,31 @@
         <text encoding="base64">CQkJdHJ5CgkJCXsKCQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRhbGVydC0+aWQoKSk7CgkJCX0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpCgkJCXsKCQkJCS8vIGlnbm9yZQoJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0cnkgewoJCQkKCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkbXRpbWUgPSBudWxsOwoJCWlmIChmaWxlX2V4aXN0cygiY2FjaGUvYWxsLmpzb24iKSkKCQl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSRkbSA9IG5ldyBcQ3ViZVxEeW5hbW9DbGllbnQoKTsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWR1bXAoanNvbl9lbmNvZGUoJGRtLT5kZXNjcmliZSgnYWxlcnRzJykpKTtkaWU7Cg==</text>
+        <text encoding="base64">CQkkbXRpbWUgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSRzdHJ1Y3R1cmUgPSAkZG0tPmRlc2NyaWJlKCdhbGVydCcpOwoJJGRtLT5jcmVhdGVNb2RlbFRhYmxlKCdhbGVydHMnKTsKCWR1bXAoJGRtLT5kZWxldGVNb2RlbFRhYmxlKCdhbGVydCcpKTtkaWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWR1bXAoJHN0cnVjdHVyZSk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtdGltZSA9IGZpbGVtdGltZSgiY2FjaGUvYWxsLmpzb24iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkJCS8vIHRvZG86IGZpbmQgdGhlIGlkIGZvciB0aGUgZXZlbnQgcHJvcGVybHkuLi4gd2hlcmUgaXMgaXQ/CgkJCS8vICRhID0gbmV3IEFsZXJ0KG5ldyBFc28oIiIpKTsKCQkJLy8gJGEtPnBvcHVsYXRlKCRhbGVydC0+X3NvdXJjZSk7CgkJCS8vICRhLT5zYXZlVG9EeW5hbW8oMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gdG9kbzogZmluZCB0aGUgaWQgZm9yIHRoZSBldmVudCBwcm9wZXJseQo=</text>
+        <text encoding="base64">CSRkbSA9IG5ldyBcQ3ViZVxEeW5hbW9DbGllbnQoKTsK</text>
       </register>
       <register name="y" type="4">
         <text>d</text>
