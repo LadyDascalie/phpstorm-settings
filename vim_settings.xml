@@ -1207,12 +1207,6 @@
         <mark key="." line="31" column="59" />
         <mark key="^" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/controllers/Alerts.php" timestamp="1473842796612">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="124" column="12" />
-        <mark key="^" line="123" column="24" />
-        <mark key="." line="123" column="24" />
-      </file>
       <file name="$USER_HOME$/Code/Repositories/cs-api/dev/vendor/cubevalidation/cubevalidation/src/CubeValidation/CubeValidation.php" timestamp="1460117333170">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="21" column="8" />
@@ -1391,11 +1385,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" timestamp="1473774649500">
-        <mark key="'" line="15" column="27" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" timestamp="1473844598954">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/Lumen/pkmn/.env" timestamp="1470590873692">
         <mark key="[" line="5" column="8" />
@@ -1839,12 +1834,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" timestamp="1473843773292">
-        <mark key="'" line="97" column="20" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="101" column="23" />
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" timestamp="1473844678974">
+        <mark key="'" line="108" column="20" />
+        <mark key="[" line="96" column="9" />
+        <mark key="]" line="96" column="15" />
+        <mark key="." line="96" column="15" />
+        <mark key="^" line="96" column="15" />
       </file>
       <file name="$USER_HOME$/Valet/dash/app/Scripts/ajaxPointsAsGeojson.php" timestamp="1472825543025">
         <mark key="[" line="31" column="23" />
@@ -2202,16 +2197,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/index.php" timestamp="1473775329170">
+      <file name="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/index.php" timestamp="1473844901508">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="41" column="10" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="39" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
       <jump line="56" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
       <jump line="35" column="0" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
       <jump line="145" column="26" filename="$USER_HOME$/Code/go/src/github.com/ladydascalie/pkmn_crowd/workers/eventRegistration/eventRegistration.go" />
@@ -2311,13 +2304,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
       <jump line="249" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/scrapers/Smn.php" />
       <jump line="97" column="20" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/library/classes/DynamoClient.php" />
+      <jump line="125" column="0" filename="$USER_HOME$/Code/Repositories/devops-vvm/dev/alerts/dev/models/Alert.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdHJ5CgkJCXsKCQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRhbGVydC0+aWQoKSk7CgkJCX0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpCgkJCXsKCQkJCS8vIGlnbm9yZQoJCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkbVw+</text>
@@ -2326,31 +2320,31 @@
         <text encoding="base64">CQkJdHJ5CgkJCXsKCQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRhbGVydC0+aWQoKSk7CgkJCX0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpCgkJCXsKCQkJCS8vIGlnbm9yZQoJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgkJCS8vIHRvZG86IGZpbmQgdGhlIGlkIGZvciB0aGUgZXZlbnQgcHJvcGVybHkuLi4gd2hlcmUgaXMgaXQ/CgkJCS8vICRhID0gbmV3IEFsZXJ0KG5ldyBFc28oIiIpKTsKCQkJLy8gJGEtPnBvcHVsYXRlKCRhbGVydC0+X3NvdXJjZSk7CgkJCS8vICRhLT5zYXZlVG9EeW5hbW8oMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gdG9kbzogZmluZCB0aGUgaWQgZm9yIHRoZSBldmVudCBwcm9wZXJseQo=</text>
+        <text encoding="base64">CSRkbSA9IG5ldyBcQ3ViZVxEeW5hbW9DbGllbnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLyoqIEB2YXIgVFlQRV9OQU1FICRpbm5lckxvY2F0aW9uICovCg==</text>
+        <text encoding="base64">CWR1bXAoanNvbl9lbmNvZGUoJGRtLT5kZXNjcmliZSgnYWxlcnRzJykpKTtkaWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLyoqIEB2YXIgVFlQRV9OQU1FICRpbm5lckxvY2F0aW9uICovCg==</text>
+        <text encoding="base64">CSRzdHJ1Y3R1cmUgPSAkZG0tPmRlc2NyaWJlKCdhbGVydCcpOwoJJGRtLT5jcmVhdGVNb2RlbFRhYmxlKCdhbGVydHMnKTsKCWR1bXAoJGRtLT5kZWxldGVNb2RlbFRhYmxlKCdhbGVydCcpKTtkaWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkvKiogQHZhciBUWVBFX05BTUUgJGlubmVyTG9jYXRpb24gKi8K</text>
+        <text encoding="base64">CWR1bXAoJHN0cnVjdHVyZSk7ZGllOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJGlkID0gc3ByaW50ZigiJXNfJXMiLCAkdGhpcy0+ZmVlZCwgJHRoaXMtPm9yaWdpbmFsLT5pZCk7Cg==</text>
+        <text encoding="base64">CQkJCSRhbGVydC0+c2F2ZVRvRHluYW1vKCRpZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkJCS8vIHRvZG86IGZpbmQgdGhlIGlkIGZvciB0aGUgZXZlbnQgcHJvcGVybHkuLi4gd2hlcmUgaXMgaXQ/CgkJCS8vICRhID0gbmV3IEFsZXJ0KG5ldyBFc28oIiIpKTsKCQkJLy8gJGEtPnBvcHVsYXRlKCRhbGVydC0+X3NvdXJjZSk7CgkJCS8vICRhLT5zYXZlVG9EeW5hbW8oMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gdG9kbzogZmluZCB0aGUgaWQgZm9yIHRoZSBldmVudCBwcm9wZXJseQo=</text>
       </register>
       <register name="y" type="4">
         <text>d</text>
